@@ -1,0 +1,26 @@
+{
+  "name": "resume-hari",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --public-url /resume-hari"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmhari/resume-hari.git"
+  },
+  "keywords": [
+    "Resume"
+  ],
+  "author": "hari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmhari/resume-hari/issues"
+  },
+  "homepage": "https://github.com/rmhari/resume-hari#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
